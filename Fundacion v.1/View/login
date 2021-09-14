@@ -1,0 +1,12 @@
+<div class= "login-page">
+  <div class="form">
+    <form class= "login-form">
+      <input type ="text" placeholder="usuario"/>
+      <input type ="contra "
+placeholder="cobntraseña "/>
+      <button> ingresar </button>
+      <p class = "message">¿No registrado? <a
+href="#">Crear una cuenta</a></p>
+    </form>
+   </div>
+ </div>
